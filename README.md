@@ -20,6 +20,3 @@
 <hr>
 
 ![SeokHyeMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokHyeMin&show_icons=true&theme=monokai)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bg565)](https://solved.ac/bg565)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeokHyeMin&count_bg=%23F7BFDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
