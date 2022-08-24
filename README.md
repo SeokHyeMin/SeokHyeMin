@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F67280&height=250&section=header&text=Seok%20Hye%20Min&fontAlignY=40&fontColor=f7f5f5)
 
 #### 👋 hi, there! I'm hyemin
 :seedling: I am studying to become a server developer. 
